@@ -5,3 +5,5 @@ class Circle
     @y = y
   end
 end
+
+# hello class
